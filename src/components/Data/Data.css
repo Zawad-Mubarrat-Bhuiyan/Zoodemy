@@ -1,0 +1,16 @@
+.flexible{
+    display: flex;
+    color:gray;
+ margin: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.half-size{
+    width: 50%;
+}
+.half-size img{
+    width: 100%;
+}
+.orange-color{
+    color: orange;
+}

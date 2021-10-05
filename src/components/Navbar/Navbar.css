@@ -1,0 +1,30 @@
+.navbar-style{   
+    background-color: lightpink;
+    padding: 5px;
+}
+.link-style {
+    text-decoration: none;
+    margin: 10px;
+    font-size: 25px;
+    font-weight:500;
+    color: black;
+}
+.link-style:hover{
+    color: white;
+}
+.pagename-style{
+    text-decoration: none;
+    margin: 10px;
+    font-size: 25px;
+    font-weight:500;
+    color: black;
+    text-align: left;
+
+}
+.pagename-style:hover{
+    color: black;
+}
+.size{
+    font-size: 50px;
+    padding-left: 8px;
+}

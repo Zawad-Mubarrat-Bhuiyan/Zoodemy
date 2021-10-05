@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Adobe Photoshop CC: Your Complete Beginner to Advanced Class",
+        "img": "https://img-c.udemycdn.com/course/240x135/927356_8108_5.jpg",
+        "instructor": "Phil Ebiner",
+        "price": 20,
+        "details": "You can learn photoshop from this course"
+    },
+    {
+        "name": "Adobe Lightroom CC Photo Editing: Your Lightroom Masterclass",
+        "img": "https://img-c.udemycdn.com/course/240x135/1699008_051e_7.jpg",
+        "instructor": "Phil Ebiner",
+        "price": 15,
+        "details": "You can learn lightroom from this course"
+    },
+    {
+        "name": "After Effects CC Masterclass: Complete After Effects Course",
+        "img": "https://img-c.udemycdn.com/course/240x135/927360_bab9_4.jpg",
+        "instructor": "Phil Ebiner",
+        "price": 14,
+        "details": "You can learn after effects from this course"
+    },
+    {
+        "name": "Premiere Pro CC for Beginners: Video Editing in Premiere",
+        "img": "https://img-c.udemycdn.com/course/240x135/926512_6fdf_7.jpg",
+        "instructor": "Phil Ebiner",
+        "price": 22,
+        "details": "You can learn premiere pro from this course"
+    },
+    {
+        "name": "Computer Networking : Go from Zero to Hero (2021)",
+        "img": "https://img-c.udemycdn.com/course/240x135/3401208_9d80_3.jpg",
+        "instructor": "We Secure",
+        "price": 15,
+        "details": "You can learn networking from this course"
+    },
+    {
+        "name": "The Complete Python 3 Course: Beginner to Advanced!",
+        "img": "https://img-c.udemycdn.com/course/240x135/882826_4687_3.jpg",
+        "instructor": "Joseph Delgadillo",
+        "price": 25,
+        "details": "You can learn python from this course"
+    },
+    {
+        "name": "JavaScript, Bootstrap, & PHP - Certification for Beginners",
+        "img": "https://img-c.udemycdn.com/course/240x135/2411016_ad7f_3.jpg",
+        "instructor": "YouAccel Training",
+        "price": 10,
+        "details": "You can learn js, bootstrap & php from this course"
+    },
+    {
+        "name": "The Startup Masterclass - For Every New Entrepreneur",
+        "img": "https://img-c.udemycdn.com/course/240x135/3492116_cee7_3.jpg",
+        "instructor": "Bihan Mahadewa",
+        "price": 30,
+        "details": "You can learn startup from this course"
+    },
+    {
+        "name": "Unreal C++ Multiplayer Master: Intermediate Game Development",
+        "img": "https://img-c.udemycdn.com/course/240x135/1319066_eee6_3.jpg",
+        "instructor": "Ben Tristem",
+        "price": 22,
+        "details": "You can learn game development from this course"
+    }
+]
